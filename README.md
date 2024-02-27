@@ -1,0 +1,21 @@
+## msi-user 11 RZCS31.Q2-57-12-14 3d8395 release-keys
+- Manufacturer: motorola
+- Platform: bengal
+- Codename: cebu
+- Brand: motorola
+- Flavor: msi-user
+- Release Version: 11
+- Kernel Version: 4.19.157
+- Id: RZCS31.Q2-57-12-14
+RZCS31.Q2-57-12-14
+- Incremental: 3d8395
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: motorola/cebu_retail/cebu:11/RZCS31.Q2-57-12-14/3d8395:user/release-keys
+- OTA version: 
+- Branch: msi-user-11-RZCS31.Q2-57-12-14-3d8395-release-keys
+- Repo: motorola_cebu_dump
